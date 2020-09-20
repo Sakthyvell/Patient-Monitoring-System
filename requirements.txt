@@ -1,0 +1,13 @@
+imagezmq
+opencv-python
+tensorflow
+imutils
+socket
+json
+numpy
+pandas
+paho-mqtt
+scipy
+dlib
+keras
+requests
